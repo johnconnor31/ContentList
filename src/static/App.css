@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 50px;
+  width:100%;
+  left: 0px;
+}
+
+.menu-logo {
+  background: gray;
+}
+.App-link {
+  color: #09d3ac;
+}
+
+.content-item {
+  display: flex;
+  width: 100%;
+  margin: 30px;
+  padding-bottom: 10px;
+  text-align: left;
+  border-bottom: 1px solid #4588ba;
+}
+
+.content-image {
+  width: 50%;
+  float: left;
+}
+
+.description {
+  margin: 0 20px;
+  color: black;
+  overflow: hidden;
+}
+
+.drawer {
+  width:'240px';
+}
+
+.menu-drawer-item {
+  height: '10%';
+  border-bottom: '0.5px solid';
+}

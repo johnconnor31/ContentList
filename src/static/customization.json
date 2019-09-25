@@ -1,0 +1,14 @@
+{
+    "background": "white",
+    "logo": {
+        "width": "50px",
+        "height":"5px",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg"
+    },
+    "burgerMenu":"#bfb911",
+    "sectionMenu":{
+        "color":"#e6d712",
+        "text":"Lucida Console",
+        "text-size":"15px"
+    }
+}
