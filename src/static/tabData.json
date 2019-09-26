@@ -3,55 +3,52 @@
         "name": "Languages",
         "content": [
         {
-            "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg",
-            "title":"some title","description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb\n cccccccccccccccccccccccc       dddddddddddddddddddddd              kkkkkkkkkkkkkkkkkkkkkkkk iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh "
+            "image": "https://www.familysearch.org/wiki/en/img_auth.php/d/d2/Flag_of_Bonaire.svg.png",
+            "title":"Bonaire Languages","description": "The official languages are Dutch, Papiamentu, and English. English became an official language of the Netherlands Antilles in March, 2007. In practice, it is not used for official purposes on Bonaire"
         },{
-            "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg",
-            "title":"some title","description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb\n cccccccccccccccccccccccc       dddddddddddddddddddddd              kkkkkkkkkkkkkkkkkkkkkkkk iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh "
+            "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Berber_languages_in_western_Algeria.svg",
+            "title":"Tugna:Berber","description": "Map of Berber speakers in western Algeria according to Inalco . This illustration (or photography) was made by Reda Kerbouche (User:Vikoula5) "
         },{
-            "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg",
-            "title":"some title","description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb\n cccccccccccccccccccccccc       dddddddddddddddddddddd              kkkkkkkkkkkkkkkkkkkkkkkk iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh "
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Guanhua_swapped.svg",
+            "title":"Mandarin Chinese","description": "Mandarin is by far the largest of the seven or ten Chinese dialect groups, spoken by 70 percent of all Chinese speakers over a large geographical area"
         },{
-            "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg",
-            "title":"some title","description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb\n cccccccccccccccccccccccc       dddddddddddddddddddddd              kkkkkkkkkkkkkkkkkkkkkkkk iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh "
+            "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_03.jpg",
+            "title":"Spanish language","description": "Spanish is a part of the Ibero-Romance group of languages, which evolved from several dialects of Vulgar Latin in Iberia after the collapse of the Western Roman Empire in the 5th century"
         },{
-            "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg",
-            "title":"some title","description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb\n cccccccccccccccccccccccc       dddddddddddddddddddddd              kkkkkkkkkkkkkkkkkkkkkkkk iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh "
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Constituent_structure_analysis_English_sentence.svg",
+            "title":"English language","description": "English has developed over the course of more than 1,400 years. The earliest forms of English, a group of West Germanic (Ingvaeonic) dialects"
         },{
-            "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg",
-            "title":"some title","description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb\n cccccccccccccccccccccccc       dddddddddddddddddddddd              kkkkkkkkkkkkkkkkkkkkkkkk iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh "
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Hindi.svg",
+            "title":"Hindi","description": "Hindi is the lingua franca of the Hindi belt and to a lesser extent other parts of India (usually in a simplified or pidginized variety such as Bazaar Hindustani or Haflong Hindi)"
         },{
-            "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg",
-            "title":"some title","description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb\n cccccccccccccccccccccccc       dddddddddddddddddddddd              kkkkkkkkkkkkkkkkkkkkkkkk iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh "
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Coin_-_Silver_-_Circa_9-10th_Century_13th_Century_CE_-_Harikela_Kingdom_-_ACCN_90-C2752_-_Indian_Museum_-_Kolkata_2014-04-04_4303.JPG",
+            "title":"Bengali language","description": "The official and de facto national language of Bangladesh is Modern Standard Bengali (Literary Bengali).[10][11][12] It serves as the lingua franca of the nation"
         },{
-            "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg",
-            "title":"some title","description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb\n cccccccccccccccccccccccc       dddddddddddddddddddddd              kkkkkkkkkkkkkkkkkkkkkkkk iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh "
-        },{
-            "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg",
-            "title":"some title","description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb\n cccccccccccccccccccccccc       dddddddddddddddddddddd              kkkkkkkkkkkkkkkkkkkkkkkk iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh "
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Multilingual_Emergency_Assembly_Area_Sign_in_Oizumi.JPG",
+            "title":"Portuguese language","description": "Portuguese is part of the Ibero-Romance group that evolved from several dialects of Vulgar Latin in the medieval Kingdom of Galicia "
         }
     ]
     },{
-        "name": "Techonologies",
+        "name": "Technologies",
         "content": [
         {
-            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
-            "title":"some title","description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb\n cccccccccccccccccccccccc       dddddddddddddddddddddd              kkkkkkkkkkkkkkkkkkkkkkkk iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh "
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Intel-Drone-100-Light-Show-980x653.jpg",
+            "title":"Drone display","description": "A drone display is the use of multiple unmanned aerial vehicles (drones), often quadcopters, flying in a coordinated fashion"
         },{
-            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
-            "title":"some title","description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb\n cccccccccccccccccccccccc       dddddddddddddddddddddd              kkkkkkkkkkkkkkkkkkkkkkkk iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh "
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/PlasticLogic_flexible_display.jpg",
+            "title":"Flexible display","description": "A flexible display is an electronic visual display which is flexible in nature; as opposed to the more prevalent traditional flat screen displays"
         },{
-            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
-            "title":"some title","description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb\n cccccccccccccccccccccccc       dddddddddddddddddddddd              kkkkkkkkkkkkkkkkkkkkkkkk iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh "
+            "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/VX1_DICOM.jpg",
+            "title":"Volumetric display","description": "A volumetric display device is a graphic display device that forms a visual representation of an object in three physical dimensions"
         },{
-            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
-            "title":"some title","description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb\n cccccccccccccccccccccccc       dddddddddddddddddddddd              kkkkkkkkkkkkkkkkkkkkkkkk iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh "
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Anzeigen%28Displays%29.jpg",
+            "title":"Laser video display","description": "Laser color television (laser TV), or laser color video display utilizes two or more individually modulated optical (laser) rays"
         },{
-            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
-            "title":"some title","description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb\n cccccccccccccccccccccccc       dddddddddddddddddddddd              kkkkkkkkkkkkkkkkkkkkkkkk iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh "
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/III-BIBI_BEI_BOB.jpg",
+            "title":"Holography","description": "A hologram is a physical structure that uses light diffraction to make an image,[1] the image can appear to be three dimensional"
         },{
-            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
-            "title":"some title","description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb\n cccccccccccccccccccccccc       dddddddddddddddddddddd              kkkkkkkkkkkkkkkkkkkkkkkk iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh "
+            "image": "https://upload.wikimedia.org/wikipedia/en/a/a2/Haze_machine.jpg",
+            "title":"Screenless video","description": "Screenless video is any system for transmitting visual information from a video source without the use of a screen."
         },{
             "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
             "title":"some title","description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb\n cccccccccccccccccccccccc       dddddddddddddddddddddd              kkkkkkkkkkkkkkkkkkkkkkkk iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh "
