@@ -6,7 +6,7 @@ Prerequisites: node js
 
 1. Checkout repository
 
-2. Go into the folder and run npm install
+2. Go to commandline and run 'npm install'
 
 3. run 'npm start'
 
